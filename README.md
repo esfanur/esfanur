@@ -1,7 +1,7 @@
 
 - 👋 Hello, I'm @esfanur necmettin erbakan university computer engineering senior student
 - 👀 I am interested in Game Programming and augmented reality...
-- 🌱 I am currently learning Unity c# html css Bootstrap...
+- 🌱 I'm learning unity,c#
 - 📫My LinkedIn account: https://www.linkedin.com/in/esfanur-%C5%9Feker-690267190
 
 <!---
