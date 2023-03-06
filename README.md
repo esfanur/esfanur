@@ -1,6 +1,6 @@
 
 - 👋 Hello, I'm @esfanur necmettin erbakan university computer engineering senior student
-- 👀 I am interested in Game Programming and augmented reality...
+- 👀 I am interested in Game Programming, augmented reality and image processing..
 - 🌱I am currently learning unity, c# and python..
 - 📫My LinkedIn account: https://www.linkedin.com/in/esfanur-%C5%9Feker-690267190
 
